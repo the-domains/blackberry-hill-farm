@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "We are a small family farm in Washington that specializes in Icelandic sheep and their products. The sheep and the family like living in Western Washington and at 1000'."
-datePublished: '2016-05-07T14:35:01.640Z'
-dateModified: '2016-05-07T04:59:54.060Z'
+datePublished: '2016-05-08T20:12:46.493Z'
+dateModified: '2016-05-08T20:10:55.008Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-07-we-are-a-small-family-farm-in-washington-that-specializes-in.md
+starred: true
 url: we-are-a-small-family-farm-in-washington-that-specializes-in/index.html
 _type: Article
 
