@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: "We are a small family farm in Washington that specializes in Icelandic sheep and their products. The sheep and the family like living in Western Washington and at 1000'."
-datePublished: '2016-05-08T20:22:42.204Z'
-dateModified: '2016-05-08T20:22:26.709Z'
+description: Sheep
+datePublished: '2016-05-08T20:45:43.584Z'
+dateModified: '2016-05-08T20:44:12.683Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-we-are-a-small-family-farm-in-washington-that-specializes-in.md
@@ -16,15 +16,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: we-are-a-small-family-farm-in-washington-that-specializes-in/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a4177d8-54ee-4b77-b4ff-c1e24f048f13.jpg)
-
-We are a small family farm in Washington that specializes in Icelandic sheep and their products. The sheep and the family like living in Western Washington and at 1000'.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5a2dce1-e787-4761-ad91-f9fd7bf00241.jpg)
+Sheep
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c840e973-1cef-4c6e-9fe1-8c54cc315c23.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/422f5111-a18f-42ed-a15f-32b1b469fd94.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b7049bc-2807-4835-a409-4a5129f55592.jpg)
