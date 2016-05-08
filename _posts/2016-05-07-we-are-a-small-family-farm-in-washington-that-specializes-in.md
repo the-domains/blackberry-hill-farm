@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Sheep
-datePublished: '2016-05-08T20:45:43.584Z'
-dateModified: '2016-05-08T20:44:12.683Z'
+description: 'We have some of the best Icelandic bloodlines both from Iceland (through A.I.) and from within the US. A large proportion of our original breeding stock was from Tongue River Farm, where Susan Mongold worked tirelessly for many years to establish and develop the Icelandic breed in the US.'
+datePublished: '2016-05-08T20:52:30.180Z'
+dateModified: '2016-05-08T20:52:23.364Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-we-are-a-small-family-farm-in-washington-that-specializes-in.md
@@ -21,7 +21,6 @@ url: we-are-a-small-family-farm-in-washington-that-specializes-in/index.html
 _type: Article
 
 ---
-Sheep
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c840e973-1cef-4c6e-9fe1-8c54cc315c23.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/422f5111-a18f-42ed-a15f-32b1b469fd94.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b7049bc-2807-4835-a409-4a5129f55592.jpg)
