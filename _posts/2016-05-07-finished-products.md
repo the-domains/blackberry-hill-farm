@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Finished Products
-datePublished: '2016-05-08T20:27:46.954Z'
-dateModified: '2016-05-08T20:26:20.695Z'
+datePublished: '2016-05-08T20:49:35.806Z'
+dateModified: '2016-05-08T20:49:26.735Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-finished-products.md
@@ -33,3 +33,5 @@ Finished Products
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/349502f8-fc66-4a8a-871a-103d0c542e65.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/575dd60c-b670-40a1-b8c2-850f44bf651c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c27866d-ad39-4662-afe8-a5f6c762fc74.jpg)
+
+Sheep fleece, roving, hand spun yarn and hand crafted items are all available for purchase. Please review our site and email Sue.
